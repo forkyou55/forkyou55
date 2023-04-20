@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Stanislav Ivanishhchev
+### Hi there 👋, my name is Stanislav Ivanishchev
 #### Computer science student, IT.
 
 Studying at QA.GURU
